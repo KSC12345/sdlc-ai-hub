@@ -1,0 +1,1 @@
+export default function ArchitectureDesigner() { return <h1>Architecture Designer</h1>; }

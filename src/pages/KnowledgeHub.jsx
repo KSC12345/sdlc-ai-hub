@@ -1,0 +1,1 @@
+export default function KnowledgeHub() { return <h1>Knowledge Hub</h1>; }
